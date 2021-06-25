@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "356038307109",
+    "project_id": "fittarifler-cacf6",
+    "storage_bucket": "fittarifler-cacf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356038307109:android:7f6b1daea2bc9bc520fecc",
+        "android_client_info": {
+          "package_name": "com.irem.fit_tarifler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356038307109-sq43kpooo4vuleej36ona3h049foe81d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.irem.fit_tarifler",
+            "certificate_hash": "837233b19c10dea3475e73657db29c5820864ca2"
+          }
+        },
+        {
+          "client_id": "356038307109-nmu7sapi06hm88lf5rbjrkou0n8mcc8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7E4HbDzVKRRKpwfmRRHLxIypJ5saGzww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356038307109-nmu7sapi06hm88lf5rbjrkou0n8mcc8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
